@@ -380,12 +380,13 @@ nav {
 }
 
 .about-img {
-    border-radius: 5px;
+    /* border-radius: 5px; */
     overflow: hidden;
 }
 
 .about-img img {
-    width: 100%;
+    width: 90%;
+    border-radius: 10px;
     height: auto;
     display: block;
 }
